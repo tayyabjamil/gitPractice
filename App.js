@@ -14,6 +14,7 @@ export default class App extends Component {
         <Text>Feature Testing</Text>
         <Text>Feature Testing 2</Text>
         <Text>Feature Testing 3</Text>
+        <Text>Feature day 4</Text>
    
       </View>
     )
