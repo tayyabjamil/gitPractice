@@ -6,6 +6,7 @@ export default class App extends Component {
     return (
       <View>
         <Text>Main day 1</Text>
+        <Text>Feature day 1</Text>
       </View>
     )
   }
